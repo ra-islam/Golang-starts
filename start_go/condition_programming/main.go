@@ -6,6 +6,13 @@ import "fmt"
 
 func main() {
 
+	//conditional sign
+
+	// >, >=, <, <=, ==
+	//and => &&
+	//or => ||
+	//not => !
+
 	age := 5
 
 	if age > 18 {
