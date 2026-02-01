@@ -13,3 +13,10 @@ func add(x int, y int) {
 func main() {
 	processOperation(2, 5, add)
 }
+
+/* 
+Higher Order function -
+1. Accept Function as parameter
+2. return a function
+3. 1 and 2 both 
+*/
