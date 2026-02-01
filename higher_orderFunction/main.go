@@ -16,7 +16,7 @@ func main() {
 
 /* 
 Higher Order function -
-1. Accept Function as parameter
+1. Accept Function as parameter -- callback function
 2. return a function
 3. 1 and 2 both 
 */
